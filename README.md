@@ -1,4 +1,4 @@
-## Hi I'm **`Matias Heredia`** - r0binxp 👋
+## Hi I'm **` Matias Heredia `** - r0binxp 👋
 
 I’ve been working with **Web technologies** for the last 15 years 🤓
 
