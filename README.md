@@ -1,9 +1,9 @@
-### Hi I'm Matias Heredia - r0binxp 👋
+## Hi I'm **`Matias Heredia`** - r0binxp 👋
 
 I’ve been working with **Web technologies** for the last 15 years 🤓
 
-In my career I’ve done **graphic design**, **web design** and in the later 5 years, I've transitioned to #Frontend development 
-**#React Js, #VueJs #HTML, #CSS, #Javascript, #StyledComponents**, and more...
+In my career I’ve done **graphic design**, **web design** and in the later 5 years, I've transitioned to #Frontend #development 
+**#React Js, **#VueJs **#HTML, **#CSS, **#Javascript, **#StyledComponents**, and more...
 
 
 ---
