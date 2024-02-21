@@ -8,7 +8,6 @@ In my career I’ve done **graphic design**, **web design** and in the later 6 y
 
 ---
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=r0binxp&count_private=true&include_all_commits=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0binxp&layout=compact" />
 </div>
 
